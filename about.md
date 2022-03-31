@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi there! Nice to digitally greet you and welcome to my bio. I am biomechanist by academic training supplemented with data science skillset.
 
 ### Contact me
 
